@@ -1,0 +1,17 @@
+    1  pycharm-community
+    2  sudo apt update
+    3  sudo apt upgrade
+    4  cd
+    5  sudo apt-get install python3-venv
+    6  mkdir myenvir
+    7  cd myenvir
+    8  python3 -m venv myenv1
+    9  python3 -m venv myenv2
+   10  source myenv1/bin/activate
+   11  deactevate
+   12  source myenv1/bin/deactevate
+   13  source myenv2/bin/activate
+   14  deactivate
+   15  cd
+   16  history
+   17  history > 1.09.txt
